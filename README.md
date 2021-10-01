@@ -16,7 +16,7 @@ Create the necessary tables if you didn't create them yet. Is up to you to choos
  
 
 
-# API
+## API
  
 
 You are in charge of building the Backend using NodeJS + Express + SQL.
