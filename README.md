@@ -6,7 +6,7 @@ START FROM THE PREVIOUS VERSION OF SHOPPING CART API!
 
  
 
-DATABASE
+### DATABASE
 Create the necessary tables if you didn't create them yet. Is up to you to choose how many tables are needed to handle:
 
 📱 Products
